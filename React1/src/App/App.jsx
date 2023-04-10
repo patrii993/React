@@ -11,7 +11,8 @@ const wishes = [
 
 const App = () => (
     <div className="app">
-        <h1>My Wishlist app</h1>
+        <h3>Introducción a React</h3>
+        <h1>My Wishlist app</h1> 
         <fieldset className="wish-input">
             <legend className="wish-input__label">New wish</legend>
             <input
